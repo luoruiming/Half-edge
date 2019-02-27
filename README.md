@@ -5,5 +5,4 @@ This is an C++ implementation of the famous Half-edge dada structure and five fu
 
 The project was created in Visual Studio 2015, Windows 7. OpenGL was set up by NuGet (install freeglut and glew). 
 
-![result]
-(https://github.com/luoruiming/Half-edge/blob/master/result.jpg)
+![result](https://github.com/luoruiming/Half-edge/blob/master/result.jpg)
